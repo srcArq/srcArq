@@ -3,7 +3,7 @@
 
 <img align='right' src="https://github.com/srcArq/srcArq/blob/main/animatedImage.gif" width="530">
 <h4>💙 Programming  |  🏔️ Nature   |  🏂 Snowboard</h4>
-<br>
+
 <h4>🌱 I’m currently learning ...</h4> 
 
 - Mobile development with Kotlin.
@@ -14,7 +14,6 @@
 
 - A real projects to grow up.
   
-<br>
 <br>
 
 <h3>🛠 Languages and Tools </h3>  
