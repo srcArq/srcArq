@@ -7,6 +7,8 @@
 <h4>🌱 I’m currently learning ...</h4> 
 
 - Mobile development with Kotlin.
+- Discover Astro's world. Check it → 
+  [![Profile](https://img.shields.io/badge/-My_Profile-563D7C?style=flat-square&logo=Astro)](https://arquelia.vercel.app/)
 
 <h4>👩🏻‍💻 I’m looking to collaborate on ...</h4>
 
@@ -17,7 +19,7 @@
 
 <h3>🛠 Languages and Tools </h3>  
 
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=Java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -25,13 +27,18 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Astro](https://img.shields.io/badge/-Astro-563D7C?style=flat-square&logo=Astro)
+
 
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![VisualStudio](http://img.shields.io/badge/-Visual%20Studio-563D7C?style=flat-square&logo=Visual%20Studio&logoColor=ffffff)
 
 
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)
+![Ubuntu](http://img.shields.io/badge/-Ubuntu-%23E44D27?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&l)
