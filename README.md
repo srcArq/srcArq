@@ -2,7 +2,7 @@
 ---
 
 <img align='right' src="https://github.com/srcArq/srcArq/blob/main/animatedImage.gif" width="530">
-<h3>💙 Programming | 🏔️ Nature  | 🏂 Snowboard</h3>
+<h4>💙 Programming  |  🏔️ Nature   |  🏂 Snowboard</h4>
 <br>
 <h4>🌱 I’m currently learning ...</h4> 
 
