@@ -41,7 +41,7 @@
 
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&l)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&/)
