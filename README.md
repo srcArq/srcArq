@@ -1,21 +1,21 @@
-<img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="24px">  Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=740&lines=Hi%2C+I'm+Arq.++I+am+forging+the+path+to+becoming+a+Developer!!)
+---
 
+<img align='right' src="https://github.com/srcArq/srcArq/blob/main/animatedImage.gif" width="530">
+<h3>💙 Programming | 🏔️ Nature  | 🏂 Snowboard</h3>
+<br>
+<h4>🌱 I’m currently learning ...</h4> 
 
-💙 Programming | 🏔️ Nature  | 🏂 Snowboard
+- Mobile development with Kotlin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arqcl/)](https://www.linkedin.com/in/arqcl/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:src.arqcl.com)](mailto:src.arqcl@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h4>👩🏻‍💻 I’m looking to collaborate on ...</h4>
 
+- A real projects to grow up.
+  
+<br>
+<br>
 
-### Languages and Tools 🛠 
+<h3>🛠 Languages and Tools </h3>  
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -40,3 +40,10 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&/)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&)
+
+<h3>📫 How to reach me? </h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arqcl/)](https://www.linkedin.com/in/arqcl/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:src.arqcl.com)](mailto:src.arqcl@gmail.com)
+
+
