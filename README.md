@@ -7,7 +7,7 @@
 <h4>🌱 I’m currently learning ...</h4> 
 
 - Mobile development with Kotlin.
-- Discover Astro's world. Check it → 
+- Discover Astro's world. Check it  ↓ 
   [![Profile](https://img.shields.io/badge/-My_Profile-563D7C?style=flat-square&logo=Astro)](https://arquelia.vercel.app/)
 
 <h4>👩🏻‍💻 I’m looking to collaborate on ...</h4>
