@@ -27,6 +27,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Astro](https://img.shields.io/badge/-Astro-563D7C?style=flat-square&logo=Astro)
+![React](https://img.shields.io/badge/-React-563D7C?style=flat-square&logo=React)
 
 
 
