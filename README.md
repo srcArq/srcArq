@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=740&lines=Hi%2C+I'm+Arq+%E2%80%94+Junior+Software+Developer;WordPress+%C2%B7+PHP+%C2%B7+Sage+11+%C2%B7+Tailwind+CSS)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=740&lines=Hi%2C+I'm+Arq.+%E2%80%94+Junior+Software+Developer;WordPress+%C2%B7+PHP+%C2%B7+Sage+11+%C2%B7+Tailwind+CSS)
 ---
 
 <img align='right' src="https://github.com/srcArq/srcArq/blob/main/animatedImage.gif" width="530">
